@@ -46,6 +46,10 @@ AirconPW = `"<your Aircon password>"` <br />
 
 ![Screenshot](https://github.com/Jetanat/SUTD-Aircon-API/blob/main/config_file.PNG)
 
+## Third, the only two files you need from my respository are 
+1.) `config.py`
+2.) `Jet_SUTD_Aircon.pyd`
+
 # The main API in Jet_SUTD_Aircon:
 1.)	The declaration of `Jet_SUTD_Aircon(AirconID=AirconID, AirconPW=AirconPW)` is to login to your SUTD aircon account. The parameters `AirconID` and `AirconPW` are your Aircon ID and Password respectively. These parameters shall be stored in `config.py`.  <br />
 2.)	A method `get_credit_database()` is to get **“my_aircon_credit_table.csv”** and return the file as dataframe.  <br />
