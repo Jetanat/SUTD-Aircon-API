@@ -48,9 +48,9 @@ AirconPW = `"<your Aircon password>"` <br />
 
 # The main API in Jet_SUTD_Aircon:
 1.)	The declaration of `Jet_SUTD_Aircon(AirconID=AirconID, AirconPW=AirconPW)` is to login to your SUTD aircon account. The parameters `AirconID` and `AirconPW` are your Aircon ID and Password respectively. These parameters shall be stored in `config.py`.  <br />
-2.)	A method `get_credit_database()` is to get “my_aircon_credit_table.csv” and return the file as dataframe.  <br />
-3.)	A method `update_credit()` is to get your current credit balance from the SUTD aircon database and then store your current credit balance to your own database `my_aircon_credit_table.csv`.  <br />
-4.)	A method `get_transaction_database()` is to get “my_aircon_transaction_table.csv” and return the file as dataframe.  <br />
-5.)	A method `update_transaction()` is to get your transaction history from the SUTD aircon database and then store your current transaction history to your own database `my_aircon_transaction_table.csv`. <br />
+2.)	A method `get_credit_database()` is to get **“my_aircon_credit_table.csv”** and return the file as dataframe.  <br />
+3.)	A method `update_credit()` is to get your current credit balance from the SUTD aircon database and then store your current credit balance to your own database **"my_aircon_credit_table.csv"**.  <br />
+4.)	A method `get_transaction_database()` is to get **“my_aircon_transaction_table.csv”** and return the file as dataframe.  <br />
+5.)	A method `update_transaction()` is to get your transaction history from the SUTD aircon database and then store your current transaction history to your own database **"my_aircon_transaction_table.csv"**. <br />
 6.)	A method `add_aircon_credit(add_amount)` is to submit an amount of dollars you like to pay to top-up your aircon credit. The top-up amount ranges from S$ 10 to S$ 50. After that you will be directed to a bank’s web browser in order to fill out your bank information to pay the school in order to top-up your aircon credit. In my experience, the top-up aircon credit usually available within 24 – 36 hours, but the transaction record is updated in a few minutes.  <br />
 
