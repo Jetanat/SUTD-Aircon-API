@@ -1,3 +1,5 @@
+
+
 # SUTD-Aircon-API
 Jet_SUTD_Aircon is a Python API designed to manage SUTD Aircon account services. It enables users to check their Aircon credit balance, review transaction history, and add additional credits seamlessly. <br />
 
@@ -38,6 +40,8 @@ The quick way to check if you have these libraries available is as follows: <br 
 ## Second, make sure that in “config.py”, you have entered the AirconID and AirconPW correctly, and make sure that your AirconID and your Aircon password are inside a quotation (“    ”). 
 AirconID = `"<your AirconID>"` <br />
 AirconPW = `"<your Aircon password>"` <br />
+
+![Screenshot](https://github.com/Jetanat/SUTD-Aircon-API/blob/main/config_file.PNG)
 
 # The main API in Jet_SUTD_Aircon:
 1.)	The declaration of `Jet_SUTD_Aircon(AirconID=AirconID, AirconPW=AirconPW)` is to login to your SUTD aircon account. The parameters `AirconID` and `AirconPW` are your Aircon ID and Password respectively. These parameters shall be stored in `config.py`.  <br />
