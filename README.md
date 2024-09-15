@@ -1,4 +1,7 @@
+# Quick Introduction: 
+This is an example plot that tracks aircon balance movement, generated using the Jet_SUTD_Aircon library. This library allows users to manage their aircon credit, retrieve transaction history, and monitor balance trends over time.
 
+![Screenshot](https://github.com/Jetanat/SUTD-Aircon-API/blob/main/config_file.PNG)
 
 # SUTD-Aircon-API
 Jet_SUTD_Aircon is a Python API designed to manage SUTD Aircon account services. It enables users to check their Aircon credit balance, review transaction history, and add additional credits seamlessly. <br />
