@@ -13,10 +13,10 @@ To address these challenges, I developed a Python API library called Jet SUTD Ai
 This software is provided “as-is,” without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the creator or contributors be held liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use of other dealings in the software. <br />
 
 # Jetanat License:
-1.)	Acknowledgment: Users of this software must acknowledge the original author in any academic or public use of the software. This acknowledgment should include the author's name and any applicable copyright notice. <br />
-2.)	Commercial Use: For any commercial product or service that incorporates this software, the user must obtain explicit permission from the original author before distributing or selling the commercial product. <br />
-3.)	No Charge for Public Use: The software is provided free of charge for public use and cannot be sold or sublicensed for commercial purposes without the author's permission. <br />
-4.)	No Warranty: The software is provided "as-is," without any warranties, express or implied. <br />
+1.)	**Acknowledgment**: Users of this software must acknowledge the original author in any academic or public use of the software. This acknowledgment should include the author's name and any applicable copyright notice. <br />
+2.)	**Commercial Use**: For any commercial product or service that incorporates this software, the user must obtain explicit permission from the original author before distributing or selling the commercial product. <br />
+3.)	**No Charge for Public Use**: The software is provided free of charge for public use and cannot be sold or sublicensed for commercial purposes without the author's permission. <br />
+4.)	**No Warranty**: The software is provided "as-is," without any warranties, express or implied. <br />
 
 # Instruction on how to use Jet SUTD Aircon:
 ## First, make sure that you have the following python libraries installed 
